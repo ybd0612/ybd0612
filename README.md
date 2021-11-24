@@ -2,7 +2,7 @@
 
 ### 你好! 👋
 
-- [简历](https://www.ix64.com/)
-- [笔记](https://ybd0612.github.io/)
+- [我的简历](https://www.ix64.com/)
+- [GitHub Pages](https://ybd0612.github.io/)
 
 🔭🌱👯🤔💬📫😄⚡
