@@ -36,7 +36,7 @@
 
 <br>
 
-### 🏗️ 核心主战场
+### ☕ 大型 Bug 制造中心
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
@@ -48,7 +48,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-### 🧪 全栈与 AI 实验室
+### 🔮 氛围编程与复制粘贴实验室
 <p align="left">
   <!-- 全栈前端生态 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
@@ -61,11 +61,11 @@
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/GPT-10a37f?style=flat-square&logo=openai&logoColor=white" alt="GPT" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Qwen-551A8B?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Qwen-551A8B?style=flat-square&logo=alibabacloud&lineColor=white" alt="Qwen" />
   <img src="https://img.shields.io/badge/Mimo-FF6C37?style=flat-square&logo=probot&logoColor=white" alt="Mimo" />
 </p>
 
-### 🐳 基础设施
+### 🐳 在我电脑上明明能跑
 <p align="left">
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
