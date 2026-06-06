@@ -3,18 +3,10 @@
 </p>
 
 <p align="center">
-  ☕ <b>Java 后端开发工程师</b> | 📍 中国
-</p>
-
-<p align="center">
-  <a href="#-关于我">关于我</a> •
-  <a href="#-技术栈">技术栈</a> •
-  <a href="#-联系我">联系我</a>
+  ☕ <b>Java 后端开发工程师</b> | 📍 武汉
 </p>
 
 ---
-
-## 🙋 关于我
 
 > 一个被 Java 选中的后端仔 👨‍💻，日常和 `null` 斗智斗勇。
 
@@ -26,21 +18,9 @@
 <br>
 
 <details>
-<summary>📂 <b>点我看看我的项目现状（划掉）项目列表</b></summary>
+<summary>📂 <b>技术栈</b></summary>
 
 <br>
-
-| 项目 | 说明 | 状态 |
-|:---:|:---|:---:|
-| **工作项目** | Java 后端服务，稳定输出中 | ✅ 已上线 |
-| **个人项目** | 造轮子进行时，探索微服务边界 | 🚧 开发中 |
-| **AI 应用** | 结合大模型 API 的智能体尝试 | 💡 规划中 |
-
-</details>
-
----
-
-## 🛠 技术栈
 
 ### 核心语言与微服务架构
 <p align="left">
@@ -65,21 +45,20 @@
   <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
 </p>
 
+</details>
+
+---
+
 > [!TIP]
 > **当代程序员的修养**：帮派的功力就这几招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>，修炼已至化境 🔥
 
 ---
 
-## 🐍 贪吃蛇动画（最近贡献的仓库）
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
 </p>
-
-
-
-
 
 ## 📬 联系我
 
@@ -90,13 +69,6 @@
   <a href="https://github.com/ybd0612">
     <img src="https://img.shields.io/badge/GitHub-ybd0612-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="https://img.shields.io/badge/微信-fwtmde-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+  <img src="#?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
----
-
----
-
-<p align="center">
-  <sub><sup>用 ❤️ 和 ☕ 制作 | Powered by GitHub</sup></sub>
-</p>
