@@ -16,7 +16,7 @@
 > 👨‍💻 面向对象写代码，执子之手度余生。
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=>+core-backend-service+正在初始化启动...+[OK];>+执行中:+优雅围剿+NPE+堆栈异常...+☕;>+运行状态:+已修复+1024+个+Bug，还有+1+个在生产环境...+🔥" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=%3E+Loading+backend+service...+%5BOK%5D;%3E+Shifting+backup+plans+to+AI+automation...;%3E+Fixed+1024+bugs%2C+1+remaining+in+production..." alt="Typing SVG" />
 </p>
 
 - 🔭 **正在深耕**：用 **Java** 筑造微服务高并发世界，日常围剿 `NPE`。
