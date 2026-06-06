@@ -84,18 +84,15 @@
 ## 📊 统计面板
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ybd0612&theme=github" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=ybd0612&theme=github" alt="Top Languages" />
+  <img src="https://img.shields.io/github/stars/ybd0612?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/ybd0612?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
+  <img src="https://img.shields.io/github/last-commit/ybd0612?style=for-the-badge&logo=github&label=Last%20Commit" alt="Last Commit" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ybd0612&theme=github" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ybd0612&theme=github" alt="Productive Time" />
-</p>
-
-<!-- ====== 贡献图 ====== -->
-<p align="center">
-  <img src="https://ghchart.rshah.org/ybd0612" alt="GitHub Contribution Chart" />
+  <img src="https://img.shields.io/github/languages/count/ybd0612?style=for-the-badge&logo=github&label=Languages" alt="Languages" />
+  <img src="https://img.shields.io/github/repo-size/ybd0612/ybd0612?style=for-the-badge&logo=github&label=Repo%20Size" alt="Repo Size" />
+  <img src="https://img.shields.io/github/commit-activity/y/ybd0612?style=for-the-badge&logo=github&label=Commits/Year" alt="Commits Per Year" />
 </p>
 
 ---
