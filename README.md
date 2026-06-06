@@ -83,25 +83,19 @@
 
 ## 📊 统计面板
 
-<!-- ====== GitHub Readme Stats ====== -->
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ybd0612&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true&locale=zh-CN&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ybd0612&layout=compact&text_color=718096&bg_color=ffffff&langs_count=8&locale=zh-CN" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ybd0612&theme=github" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/top-langs?username=ybd0612&theme=github" alt="Top Languages" />
 </p>
 
-<!-- ====== GitHub Streak ====== -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ybd0612&theme=default&background=ffffff&ring=CE1D2D&fire=FF6B6B&currStreakLabel=CE1D2D&sideLabels=718096" alt="GitHub Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ybd0612&theme=github" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ybd0612&theme=github" alt="Productive Time" />
 </p>
 
 <!-- ====== 贡献图 ====== -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ybd0612&bg_color=ffffff&color=718096&line=CE1D2D&point=FF6B6B&area=true&area_color=CE1D2D&hide_border=true&locale=zh-CN" alt="Activity Graph" />
-</p>
-
-<!-- ====== Trophies / 成就 ====== -->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ybd0612&theme=flat&no-frame=true&no-bg=true&column=7&margin-w=10&locale=zh-CN" alt="Trophies" />
+  <img src="https://ghchart.rshah.org/ybd0612" alt="GitHub Contribution Chart" />
 </p>
 
 ---
