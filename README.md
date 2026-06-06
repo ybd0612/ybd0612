@@ -80,7 +80,7 @@
 
 ### ⌨️ 当代程序员的修养
 
-> 帮派的功力就这几招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>，捬炼已致化境 🔥
+> 帮派的功力就这几招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>，修炼已至化境 🔥
 
 ---
 
