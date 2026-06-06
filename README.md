@@ -78,7 +78,7 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-### ⌨️ 操作指南（这些快捷键你得知道）
+### ⌨️ 当代程序员的修养：我 Ctrl+C 和 Ctrl+V 很熟练
 
 | 操作 | Windows/Linux | macOS |
 |:---|:---:|:---:|
