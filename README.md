@@ -1,5 +1,6 @@
 <!-- ====== 头部标题 ====== -->
-<p align="center"><b>Hey 👋, I'm <a href="https://github.com/ybd0612">Ybond</a></b><br>☕ Java Backend Developer | 📍 China</p>
+<h1 align="center">Hey 👋, I'm <a href="https://github.com/ybd0612">Ybond</a></h1>
+<h3 align="center">☕ Java Backend Developer | 📍 China</h3>
 
 <p align="center">
   <picture>
