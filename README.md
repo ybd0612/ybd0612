@@ -60,9 +60,6 @@
   <a href="mailto:ybd0612@qq.com">
     <img src="https://img.shields.io/badge/QQ邮箱-ybd0612@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://github.com/ybd0612">
-    <img src="https://img.shields.io/badge/GitHub-ybd0612-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <img src="https://img.shields.io/badge/GitHub-ybd0612-181717?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
