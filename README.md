@@ -63,6 +63,6 @@
   <a href="https://github.com/ybd0612">
     <img src="https://img.shields.io/badge/GitHub-ybd0612-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <img src="#?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+  <img src="https://img.shields.io/badge/GitHub-ybd0612-181717?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
