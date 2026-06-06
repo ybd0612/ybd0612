@@ -1,17 +1,17 @@
-<!-- ====== 头部标题 ====== -->
-<h2 align="center">Hey 👋, I'm <a href="https://github.com/ybd0612">Ybond</a></h2>
-<p align="center">☕ Java Backend Developer | 📍 China</p>
-
-<!-- ====== 目录导航 ====== -->
 <p align="center">
-  <a href="#-关于我">关于我</a> &bull;
-  <a href="#-技能栈">技能栈</a> &bull;
-  <a href="#-统计面板">统计面板</a> &bull;
-  <a href="#-最近活动">最近活动</a> &bull;
-  <a href="#-代码片段展示">代码片段</a> &bull;
-  <a href="#-mermaid-流程图示例">流程图</a> &bull;
-  <a href="#-数学公式示例">数学公式</a> &bull;
-  <a href="#-收件箱">收件箱</a>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hey%20👋,%20I'm%20Ybond&fontSize=40&animation=twinkling" alt="header" />
+</p>
+
+<p align="center">
+  ☕ <b>Java 后端开发工程师</b> | 📍 中国
+</p>
+
+<p align="center">
+  <a href="#-关于我">关于我</a> •
+  <a href="#-技术栈">技术栈</a> •
+  <a href="#-开源数据">开源数据</a> •
+  <a href="#-代码片段展示">代码片段</a> •
+  <a href="#-联系我">联系我</a>
 </p>
 
 ---
@@ -20,63 +20,59 @@
 
 > 一个被 Java 选中的后端仔 👨‍💻，日常和 `null` 斗智斗勇。
 
-- 🔭 正在用 **Java** 搭建后端世界——一砖一瓦，全是接口和注解
-- 🌱 最近沉迷 **Spring Cloud / 微服务 / 中间件**，感觉头发日渐稀薄
-- 👯 热衷研究新技术，看到新框架比看到新番还兴奋
-- 💬 关于 **Java / Spring Boot / MySQL / Redis** 的问题尽管来，答不上来算我输（大概）
-- 📫 想找我唠嗑？QQ邮箱 [ybd0612@qq.com](mailto:ybd0612@qq.com) | 微信: fwtmde，暗号是 ``Hello World``
-- ⚡ 生活真相：一杯茶，一根烟，一个 Bug 改一天。第十天发现少了个分号 ☕
+- 🔭 **正在深耕**：用 **Java** 搭建后端世界——一砖一瓦，全是接口和注解。
+- 🌱 **技术沉迷**：最近沉迷 **Spring Cloud / 微服务 / 中间件**，感觉头发日渐稀薄。
+- 👯 **极客精神**：热衷研究新技术，看到新框架比看到新番还兴奋。
+- ⚡ **生活真相**：一杯茶，一根烟，一个 Bug 改一天。第十天发现少了个分号 ☕
 
-<!-- ====== 折叠块 (details/summary) ====== -->
+<br>
 
 <details>
-<summary>📂 <b>点我看看我的项目坟场（划掉）项目列表</b></summary>
+<summary>📂 <b>点我看看我的项目现状（划掉）项目列表</b></summary>
 
 <br>
 
 | 项目 | 说明 | 状态 |
-|:---:|:---:|:---:|
-| 工作项目 | Java 后端服务，稳定输出中 | ✅ 已上线 |
-| 个人项目 | 造轮子进行时 | 🚧 开发中 |
-| AI 应用 | 脑洞已开，代码待补 | 💡 规划中 |
+|:---:|:---|:---:|
+| **工作项目** | Java 后端服务，稳定输出中 | ✅ 已上线 |
+| **个人项目** | 造轮子进行时，探索微服务边界 | 🚧 开发中 |
+| **AI 应用** | 结合大模型 API 的智能体尝试 | 💡 规划中 |
 
 </details>
 
 ---
 
-## 🛠 技能栈
+## 🛠 技术栈
 
-### 语言与框架
-
-<!-- ====== shields.io 徽章 ====== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" alt="Spring Boot" />
-  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring Cloud" />
-  <img src="https://img.shields.io/badge/MyBatis-EC1C24?style=for-the-badge&logo=mybatis&logoColor=white" alt="MyBatis" />
-  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
+### 核心语言与微服务架构
+<p align="left">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
+  <img src="https://img.shields.io/badge/MyBatis-EC1C24?style=flat-square&logo=mybatis&logoColor=white" alt="MyBatis" />
 </p>
 
-### 生产力工具（没它们活不下去）
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="Nginx" />
+### 数据存储与中间件
+<p align="left">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
-### ⌨️ 当代程序员的修养
+### 基础设施与生产力工具
+<p align="left">
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=white" alt="IntelliJ IDEA" />
+</p>
 
-> 帮派的功力就这几招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>，修炼已至化境 🔥
+> [!TIP]
+> **当代程序员的修养**：帮派的功力就这几招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>，修炼已至化境 🔥
 
 ---
 
-## 📊 统计面板
+## 📊 开源数据与状态
 
 <p align="center">
   <img src="https://img.shields.io/github/stars/ybd0612?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
@@ -92,51 +88,11 @@
 
 ---
 
-## 🔄 最近活动
-
-> 还在路上，敬请期待 🚀
-
----
-
 ## 💻 代码片段展示
 
-### Diff 格式 (增删高亮)
-
-```diff
-# GitHub README 支持 diff 语法高亮
-- public class OldService {
--     public String process() { return "deprecated"; }
-- }
-+ public class NewService {
-+     public String process() { return "improved!"; }
-+ }
-```
-
-### Java 代码块
+### ⚡ 微服务经典组件：Spring Boot Redis 配置
 
 ```java
-@RestController
-@RequestMapping("/api/users")
-public class UserController {
-
-    @Autowired
-    private UserService userService;
-
-    @GetMapping("/{id}")
-    public ResponseEntity<User> getUser(@PathVariable Long id) {
-        return ResponseEntity.ok(userService.findById(id));
-    }
-
-    @PostMapping
-    public ResponseEntity<User> createUser(@Valid @RequestBody UserDTO dto) {
-        User user = userService.create(dto);
-        return ResponseEntity.status(HttpStatus.CREATED).body(user);
-    }
-}
-```
-
-```java
-// Spring Boot 配置示例
 @Configuration
 public class RedisConfig {
 
@@ -153,96 +109,18 @@ public class RedisConfig {
 
 ---
 
-## 🔀 Mermaid 流程图示例
+## 🔄 最近动态 & 任务
 
-```mermaid
-graph TD
-    A[开始] --> B{是新项目?}
-    B -->|是| C[初始化 Git 仓库]
-    B -->|否| D[拉取最新代码]
-    C --> E[编写代码]
-    D --> E
-    E --> F{通过测试?}
-    F -->|是| G[提交 PR]
-    F -->|否| H[修复 Bug]
-    H --> E
-    G --> I[Code Review]
-    I --> J[合并到主分支]
-    J --> K[部署上线 🚀]
-```
+### 🎯 升级路线图
 
-```mermaid
-pie title 技术栈占比
-    "Java" : 50
-    "Spring 生态" : 25
-    "数据库 & 中间件" : 15
-    "前端 & 其他" : 10
-```
+- [x] 熟练掌握微服务常用组件（Gateway, Nacos, Sentinel）
+- [x] 构建高可用的 Redis 缓存生产实践
+- [ ] 精通 Spring Cloud 深度底层源码与调优
+- [ ] 构建属于自己的独立 SaaS 产品 / 参与 1k+ Star 开源项目
 
 ---
 
-## 🔢 数学公式示例
-
-> GitHub 支持 KaTeX 数学公式渲染
-
-行内公式：质能方程 $E = mc^2$，欧拉公式 $e^{i\pi} + 1 = 0$
-
-块级公式：
-
-$$
-\int_{-\infty}^{\infty} e^{-x^2} dx = \sqrt{\pi}
-$$
-
-$$
-\sum_{n=1}^{\infty} \frac{1}{n^2} = \frac{\pi^2}{6}
-$$
-
-$$
-\mathbf{F} = m \cdot \mathbf{a} = m \cdot \frac{d\mathbf{v}}{dt}
-$$
-
----
-
-## ⚠️ Alerts 示例
-
-> [!NOTE]
-> 这是一个 **Note** 提示框，适合用来补充说明信息。
-
-> [!TIP]
-> 这是一个 **Tip** 提示框，适合用来给出有用的建议。
-
-> [!IMPORTANT]
-> 这是一个 **Important** 提示框，适合用来强调关键信息。
-
-> [!WARNING]
-> 这是一个 **Warning** 提示框，适合用来提醒潜在风险。
-
-> [!CAUTION]
-> 这是一个 **Caution** 提示框，适合用来警告可能导致破坏性后果的操作。
-
----
-
-## ✅ 任务列表
-
-- [x] 学会使用 Git
-- [x] 写出第一个 README
-- [x] 学会 Mermaid 画图
-- [ ] 精通 Spring Cloud 微服务
-- [ ] 贡献一个 1k+ star 的开源项目
-- [ ] 构建自己的 SaaS 产品
-
----
-
-## 🦶 脚注示例
-
-GitHub 的 Markdown 支持脚注功能[^1]，这在技术文档中非常有用[^2]。
-
-[^1]: 脚注可以放在文档的任何位置，引用会自动生成链接。
-[^2]: GitHub 使用的 Markdown 引擎是 [github-markdown](https://github.com/github/cmark-gfm)。
-
----
-
-## 🎵 可折叠的音乐播放器 (HTML 示例)
+## 🎵 编码 BGM
 
 <details>
 <summary>🎶 <b>点击展开我的编码歌单</b></summary>
@@ -260,7 +138,7 @@ GitHub 的 Markdown 支持脚注功能[^1]，这在技术文档中非常有用[^
 
 ---
 
-## 📬 收件箱
+## 📬 联系我
 
 <p align="center">
   <a href="mailto:ybd0612@qq.com">
@@ -269,21 +147,30 @@ GitHub 的 Markdown 支持脚注功能[^1]，这在技术文档中非常有用[^
   <a href="https://github.com/ybd0612">
     <img src="https://img.shields.io/badge/GitHub-ybd0612-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://steamcommunity.com/id/yourid">
-    <img src="https://img.shields.io/badge/微信-fwtmde-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
-  </a>
+  <img src="https://img.shields.io/badge/微信-fwtmde-07C160?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
 ---
 
-<!-- ====== 底部动画波浪 ====== -->
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=120&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=120&section=footer" />
-    <img alt="footer" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=120&section=footer" />
-  </picture>
-</p>
+> [!NOTE]
+> 🚀 **进阶技巧：如何让主页"全自动更新"？**
+>
+> 如果你想让你的 GitHub 主页展示最新的博客文章或最近在 GitHub 上的动态，你可以利用 GitHub Actions 引入自动化组件：
+>
+> **1. 自动展示最新 GitHub 动态**
+>
+> 在 README 中留下注释标记：
+> ```html
+> <!--START_SECTION:activity-->
+> <!--END_SECTION:activity-->
+> ```
+> 然后使用开源的 [github-activity-readme](https://github.com/JamesIves/github-activity-readme) Action。它每天会自动把你最近的 Commit、Issue、PR 动态刷进这两个注释中间，完全不需要手动维护。
+>
+> **2. 自动展示最新博客（若你有个人博客/知乎/掘金等）**
+>
+> 使用 [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)，配置好你的 RSS 订阅地址，它就会自动把你最新的文章同步到主页上。
+
+---
 
 <p align="center">
   <sub><sup>用 ❤️ 和 ☕ 制作 | Powered by GitHub</sup></sub>
