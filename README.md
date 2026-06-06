@@ -16,7 +16,7 @@
 > 👨‍💻 面向对象写代码，执子之手度余生。
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=%3E+core-backend-service+%E6%AD%A3%E5%9C%A8%E5%8A%A0%E8%BD%BD%E5%90%AF%E5%8A%A8...+%5BOK%5D;%3E+%E6%89%A7%E8%A1%8C%E4%B8%AF%3A+%E4%BC%98%E9%9B%85%E5%9B%B4%E5%89%BF+NPE+%E5%A0%86%E6%A0%88%E5%BC%82%E5%B8%B8...+%E2%98%95;%3E+%E8%BF%90%E8%A1%8C%E7%8A%B6%E6%80%A1%3A+%E5%B7%B2%E4%BF%AE%E5%A4%8D+1024+%E4%B8%AA+Bug%EF%BC%8C%E8%BF%98%E6%9C%89+1+%E4%B8%AA%E5%9C%A8%E7%94%9F%E4%BA%A7%E7%8E%AF%E5%A2%83...+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=>+core-backend-service+正在初始化启动...+[OK];>+执行中:+优雅围剿+NPE+堆栈异常...+☕;>+运行状态:+已修复+1024+个+Bug，还有+1+个在生产环境...+🔥" alt="Typing SVG" />
 </p>
 
 - 🔭 **正在深耕**：用 **Java** 筑造微服务高并发世界，日常围剿 `NPE`。
