@@ -8,7 +8,7 @@
 
 ---
 
-> 一个被 Java 选中的后端仔 👨‍💻，在公司和 `null` 斗智斗勇，在家里听老婆的话。
+> 👨‍💻 面向对象写代码，执子之手度余生。
 
 - 🔭 **正在深耕**：用 **Java** 筑造微服务高并发世界，日常围剿 `NPE`。
 - 🔮 **氛围编程**：沉迷 **Vibe Coding**，我出架构和灵感，AI 当牛马。
@@ -22,19 +22,25 @@
 
 <br>
 
-### 🛠️ 搬砖主武器（核心语言与微服务框架）
+### 🛠️ 搬砖主武器（核心语言与微服务生态）
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" alt="Spring Boot" />
   <img src="https://img.shields.io/badge/Spring%20Cloud-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring Cloud" />
   <img src="https://img.shields.io/badge/MyBatis-EC1C24?style=flat-square&logo=mybatis&logoColor=white" alt="MyBatis" />
+  <img src="https://img.shields.io/badge/Nacos-F53F3F?style=flat-square&logo=alibaba&logoColor=white" alt="Nacos" />
+  <img src="https://img.shields.io/badge/Apache%20RocketMQ-ED1941?style=flat-square&logo=apache-rocketmq&logoColor=white" alt="RocketMQ" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
 </p>
 
 ### 🗄️ 删库跑路防御战（数据存储与缓存中间件）
 <p align="left">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis" />
+  <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" alt="Elasticsearch" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" alt="RabbitMQ" />
 </p>
 
 ### 🐳 救命的集装箱与 AI 时代偷懒利器（基础设施与全栈工具链）
