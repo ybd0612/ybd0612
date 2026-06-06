@@ -86,6 +86,16 @@
   <img src="https://img.shields.io/github/commit-activity/y/ybd0612?style=for-the-badge&logo=github&label=Commits/Year" alt="Commits Per Year" />
 </p>
 
+### 🐍 贪吃蛇动画（最近贡献的仓库）
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
+</p>
+
+> [!NOTE]
+> 贪吃蛇动画使用 [Platane/snk](https://github.com/Platane/snk) 生成，需要配置 GitHub Actions 才能自动更新。
+
 ---
 
 ## 💻 代码片段展示
