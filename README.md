@@ -1,12 +1,9 @@
 <!-- ====== 头部标题 ====== -->
-<h1 align="center">Hey 👋, I'm <a href="https://github.com/ybd0612">Ybond</a></h1>
-<h3 align="center">☕ Java Backend Developer | 📍 China</h3>
-
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=150&section=footer" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=150&section=footer" />
-    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=150&section=footer" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ybond&fontSize=70&fontAlign=50&fontAlignY=45&desc=Java%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=70&color=0:0D1117,50:1F6FEB,100:0D1117&fontColor=FFFFFF" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ybond&fontSize=70&fontAlign=50&fontAlignY=45&desc=Java%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=70&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&fontColor=0D1117" />
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ybond&fontSize=70&fontAlign=50&fontAlignY=45&desc=Java%20Backend%20Developer&descSize=18&descAlign=50&descAlignY=70&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&fontColor=0D1117" />
   </picture>
 </p>
 
