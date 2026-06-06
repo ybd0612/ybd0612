@@ -13,11 +13,11 @@
 
 ---
 
-> 👨‍💻 面向对象写代码，执子之手度余生。
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=%3E+Vibe+Coding%3A+I+think%2C+AI+write.+%F0%9F%94%AE;%3E+No+coding%2C+just+vibing+and+prompting.+%F0%9F%98%8E;%3E+while+%28true%29+%7B+Vibe_and_Coding%28%29%3B+%7D+%E2%98%95" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=%3E+Vibe+Coding%3A+I+think%2C+AI+write.+%F0%9F%94%AE;%3E+I+share+the+vibe%2C+AI+writes+the+code.+%F0%9F%98%8E" alt="Typing SVG" />
 </p>
+
+> 👨‍💻 面向对象写代码，执子之手度余生。
 
 - 🔭 **正在深耕**：用 **Java** 筑造微服务高并发世界，日常围剿 `NPE`。
 - 🔮 **氛围编程**：沉迷 **Vibe Coding**，我出架构和灵感，AI 当牛马。
