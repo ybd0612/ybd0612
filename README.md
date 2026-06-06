@@ -47,20 +47,14 @@
 
 </details>
 
----
-
 > [!TIP]
 > **当代程序员的修养**：帮派的功力就这几招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>，修炼已至化境 🔥
-
----
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
 </p>
-
-## 📬 联系我
 
 <p align="center">
   <a href="mailto:ybd0612@qq.com">
