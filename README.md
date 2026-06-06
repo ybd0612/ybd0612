@@ -36,7 +36,7 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/MyBatis-EC1C24?style=flat-square&logo=mybatis&logoColor=white" alt="MyBatis" />
+  <img src="https://img.shields.io/badge/MyBatis-EC1C24?style=flat-square&logo=gitbook&logoColor=white" alt="MyBatis" />
   <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apache-kafka&logoColor=white" alt="Kafka" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
@@ -52,10 +52,10 @@
   <img src="https://img.shields.io/badge/微信小程序-22C55E?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Mini Program" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
+  <img src="https://img.shields.io/badge/GPT-10a37f?style=flat-square&logo=openai&logoColor=white" alt="GPT" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
   <img src="https://img.shields.io/badge/Qwen-551A8B?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen" />
   <img src="https://img.shields.io/badge/Mimo-FF6C37?style=flat-square&logo=probot&logoColor=white" alt="Mimo" />
-  <img src="https://img.shields.io/badge/MiniMax-002FA7?style=flat-square&logo=ai&logoColor=white" alt="MiniMax" />
 </p>
 
 ### 🐳 基础设施
