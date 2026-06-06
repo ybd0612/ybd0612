@@ -9,7 +9,6 @@
 <p align="center">
   <a href="#-关于我">关于我</a> •
   <a href="#-技术栈">技术栈</a> •
-  <a href="#-代码片段展示">代码片段</a> •
   <a href="#-联系我">联系我</a>
 </p>
 
@@ -79,37 +78,7 @@
 </p>
 
 
----
 
-## 💻 代码片段展示
-
-### ⚡ 微服务经典组件：Spring Boot Redis 配置
-
-```java
-@Configuration
-public class RedisConfig {
-
-    @Bean
-    public RedisTemplate<String, Object> redisTemplate(RedisConnectionFactory factory) {
-        RedisTemplate<String, Object> template = new RedisTemplate<>();
-        template.setConnectionFactory(factory);
-        template.setKeySerializer(new StringRedisSerializer());
-        template.setValueSerializer(new GenericJackson2JsonRedisSerializer());
-        return template;
-    }
-}
-```
-
----
-
-## 🔄 最近动态 & 任务
-
-### 🎯 升级路线图
-
-- [x] 熟练掌握微服务常用组件（Gateway, Nacos, Sentinel）
-- [x] 构建高可用的 Redis 缓存生产实践
-- [ ] 精通 Spring Cloud 深度底层源码与调优
-- [ ] 构建属于自己的独立 SaaS 产品 / 参与 1k+ Star 开源项目
 
 
 ## 📬 联系我
