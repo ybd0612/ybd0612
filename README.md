@@ -9,7 +9,6 @@
 <p align="center">
   <a href="#-关于我">关于我</a> •
   <a href="#-技术栈">技术栈</a> •
-  <a href="#-开源数据">开源数据</a> •
   <a href="#-代码片段展示">代码片段</a> •
   <a href="#-联系我">联系我</a>
 </p>
@@ -72,21 +71,7 @@
 
 ---
 
-## 📊 开源数据与状态
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/ybd0612?style=for-the-badge&logo=github&label=Stars" alt="Stars" />
-  <img src="https://img.shields.io/github/followers/ybd0612?style=for-the-badge&logo=github&label=Followers" alt="Followers" />
-  <img src="https://img.shields.io/github/last-commit/ybd0612?style=for-the-badge&logo=github&label=Last%20Commit" alt="Last Commit" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/count/ybd0612?style=for-the-badge&logo=github&label=Languages" alt="Languages" />
-  <img src="https://img.shields.io/github/repo-size/ybd0612/ybd0612?style=for-the-badge&logo=github&label=Repo%20Size" alt="Repo Size" />
-  <img src="https://img.shields.io/github/commit-activity/y/ybd0612?style=for-the-badge&logo=github&label=Commits/Year" alt="Commits Per Year" />
-</p>
-
-### 🐍 贪吃蛇动画（最近贡献的仓库）
+## 🐍 贪吃蛇动画（最近贡献的仓库）
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
