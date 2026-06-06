@@ -48,8 +48,6 @@
   <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
 </p>
 
----
-
 ### 🔮 氛围编程与复制粘贴实验室
 <p align="left">
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
@@ -63,8 +61,6 @@
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/微信小程序-22C55E?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
-
----
 
 ### 🐳 在我电脑上明明能跑
 <p align="left">
