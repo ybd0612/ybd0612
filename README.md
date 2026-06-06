@@ -126,22 +126,6 @@ public class RedisConfig {
 
 ---
 
->
-> 如果你想让你的 GitHub 主页展示最新的博客文章或最近在 GitHub 上的动态，你可以利用 GitHub Actions 引入自动化组件：
->
-> **1. 自动展示最新 GitHub 动态**
->
-> 在 README 中留下注释标记：
-> ```html
-> <!--START_SECTION:activity-->
-> <!--END_SECTION:activity-->
-> ```
-> 然后使用开源的 [github-activity-readme](https://github.com/JamesIves/github-activity-readme) Action。它每天会自动把你最近的 Commit、Issue、PR 动态刷进这两个注释中间，完全不需要手动维护。
->
-> **2. 自动展示最新博客（若你有个人博客/知乎/掘金等）**
->
-> 使用 [blog-post-workflow](https://github.com/gautamkrishnar/blog-post-workflow)，配置好你的 RSS 订阅地址，它就会自动把你最新的文章同步到主页上。
-
 ---
 
 <p align="center">
