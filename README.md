@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hey%20👋,%20I'm%20Ybond&fontSize=40&animation=twinkling" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=150&section=header&text=Hey%20👋,%20I'm%20Ybond&fontSize=40&animation=twinkling" alt="Ybond's GitHub Header" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=%3E+Vibe+Coding%3A+I+think%2C+AI+write.+%F0%9F%94%AE;%3E+I+share+the+vibe%2C+AI+writes+the+code.+%F0%9F%98%8E" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=650&lines=%3E+Vibe+Coding%3A+I+think%2C+AI+write.+%F0%9F%94%AE;%3E+I+share+the+vibe%2C+AI+writes+the+code.+%F0%9F%98%8E" alt="Vibe Coding Style" />
 </p>
 
 > 👨‍💻 面向对象写代码，执子之手度余生。
@@ -50,18 +50,15 @@
 
 ### 🔮 氛围编程与复制粘贴实验室
 <p align="left">
-  <!-- 全栈前端生态 -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" alt="Vue.js" />
-  <img src="https://img.shields.io/badge/微信小程序-22C55E?style=flat-square&logo=wechat&logoColor=white" alt="WeChat Mini Program" />
-  <br />
-  <!-- AI 与智能模型 -->
+  <img src="https://img.shields.io/badge/微信小程序-22C55E?style=flat-square&logo=wechat&logoColor=white" alt="WeChat" />
   <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=flat-square&logo=anthropic&logoColor=white" alt="Claude Code" />
   <img src="https://img.shields.io/badge/Codex-412991?style=flat-square&logo=openai&logoColor=white" alt="Codex" />
   <img src="https://img.shields.io/badge/GPT-10a37f?style=flat-square&logo=openai&logoColor=white" alt="GPT" />
   <img src="https://img.shields.io/badge/DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white" alt="DeepSeek" />
-  <img src="https://img.shields.io/badge/Qwen-551A8B?style=flat-square&logo=alibabacloud&lineColor=white" alt="Qwen" />
+  <img src="https://img.shields.io/badge/Qwen-551A8B?style=flat-square&logo=alibabacloud&logoColor=white" alt="Qwen" />
   <img src="https://img.shields.io/badge/Mimo-FF6C37?style=flat-square&logo=probot&logoColor=white" alt="Mimo" />
 </p>
 
@@ -83,5 +80,5 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
+  <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
 </picture>
