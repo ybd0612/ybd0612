@@ -1,9 +1,12 @@
-<!-- ====== 图片：深色/浅色模式自适应 ====== -->
+<!-- ====== 头部标题 ====== -->
+<h1 align="center">Hey 👋, I'm <a href="https://github.com/ybd0612">Ybond</a></h1>
+<h3 align="center">☕ Java Backend Developer | 📍 China</h3>
+
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=220&section=header&text=Ybond&fontSize=60&fontColor=FFFFFF&animation=fadeIn&desc=Java%20Backend%20Developer%20%7C%20Learner&descSize=20&descAlign=50&descAlignY=40" />
-    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=220&section=header&text=Ybond&fontSize=60&fontColor=0D1117&animation=fadeIn&desc=Java%20Backend%20Developer%20%7C%20Learner&descSize=20&descAlign=50&descAlignY=40" />
-    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=220&section=header&text=Ybond&fontSize=60&fontColor=0D1117&animation=fadeIn" />
+    <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:0D1117&height=150&section=footer" />
+    <source media="(prefers-color-scheme: light)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=150&section=footer" />
+    <img alt="header" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFFFFF,50:1F6FEB,100:FFFFFF&height=150&section=footer" />
   </picture>
 </p>
 
