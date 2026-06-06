@@ -24,6 +24,11 @@
 
 <br>
 
+> [!TIP]
+> **当代后端的基本修养**：其实绝学就这两招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>。只要代码能 Run，千万别动它！ 🔥
+
+<br>
+
 <details>
 <summary>📂 <b>点开查看：我的生产力核心装备</b></summary>
 
@@ -62,8 +67,7 @@
 
 </details>
 
-> [!TIP]
-> **当代后端的基本修养**：其实绝学就这两招：<kbd>Ctrl</kbd> + <kbd>C</kbd> 和 <kbd>Ctrl</kbd> + <kbd>V</kbd>。只要代码能 Run，千万别动它！ 🔥
+<br>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake-dark.svg" />
