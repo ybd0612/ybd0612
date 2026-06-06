@@ -99,12 +99,7 @@
 
 ## 🔄 最近活动
 
-<!-- ====== 最近提交的仓库 (snake animation / 贪吃蛇) ====== -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
-</picture>
+> 还在路上，敬请期待 🚀
 
 ---
 
