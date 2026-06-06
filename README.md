@@ -93,8 +93,6 @@
   <img alt="github-snake" src="https://raw.githubusercontent.com/ybd0612/ybd0612/output/github-snake.svg" />
 </p>
 
-> [!NOTE]
-> 贪吃蛇动画使用 [Platane/snk](https://github.com/Platane/snk) 生成，需要配置 GitHub Actions 才能自动更新。
 
 ---
 
@@ -128,25 +126,6 @@ public class RedisConfig {
 - [ ] 精通 Spring Cloud 深度底层源码与调优
 - [ ] 构建属于自己的独立 SaaS 产品 / 参与 1k+ Star 开源项目
 
----
-
-## 🎵 编码 BGM
-
-<details>
-<summary>🎶 <b>点击展开我的编码歌单</b></summary>
-
-<br>
-
-| # | 歌曲 | 艺术家 | 适合场景 |
-|:---:|:---|:---|:---|
-| 1 | Lo-Fi Beats | ChilledCow | 日常编码 |
-| 2 | Breathe | Telepopmusik | Debug 时放松 |
-| 3 | The Algorithm | Perturbator | 冲刺 Deadline |
-| 4 | Coding in the Rain | Various | 夜间独处 |
-
-</details>
-
----
 
 ## 📬 联系我
 
@@ -162,8 +141,6 @@ public class RedisConfig {
 
 ---
 
-> [!NOTE]
-> 🚀 **进阶技巧：如何让主页"全自动更新"？**
 >
 > 如果你想让你的 GitHub 主页展示最新的博客文章或最近在 GitHub 上的动态，你可以利用 GitHub Actions 引入自动化组件：
 >
