@@ -67,7 +67,7 @@
   <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" alt="Vue.js" />
 </p>
 
-### 工具与平台
+### 生产力工具（没它们活不下去）
 
 <p align="center">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
@@ -82,7 +82,7 @@
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white" alt="Notion" />
 </p>
 
-### ⌨️ 键盘快捷键速查 (kbd 标签示例)
+### ⌨️ 操作指南（这些快捷键你得知道）
 
 | 操作 | Windows/Linux | macOS |
 |:---|:---:|:---:|
