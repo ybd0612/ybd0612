@@ -15,10 +15,9 @@
 
 > 👨‍💻 面向对象写代码，执子之手度余生。
 
-- 🔭 **正在深耕**：用 **Java** 筑造微服务高并发世界，日常围剿 `NPE`。
-- 🔮 **氛围编程**：沉迷 **Vibe Coding**，我出架构和灵感，AI 当牛马。
-- 👯 **极客精神**：不卷陈旧框架，热衷探索前沿技术、AI Agent 与效率工具。
-- ⚡ **生存现状**：一杯茶，一根烟，一段 Prompt 跑一天，主打一个优雅 ☕
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=3ECF8E&center=true&vCenter=true&width=500&lines=%3E+%2Ffix+%E5%B8%AE%E6%88%91%E7%9C%8B%E7%9C%8B%E8%BF%99%E4%B8%AA+NPE+%E6%80%8E%E4%B9%88%E5%8F%88%E5%87%BA%E6%9D%A5%E4%BA%86...;%3E+%2Foptimize+%E4%BC%98%E5%8C%96%E4%B8%8B%E5%B1%8E%E5%B1%B1%EF%BC%8C%E5%88%AB%E8%AE%A9%E7%BB%84%E9%95%BF%E7%9C%8B%E5%87%BA%E6%9D%A5...;%3E+%2Fvibe+%E4%B8%8D%E7%AE%A1%E4%BA%86%EF%BC%8C%E4%B8%80%E6%9D%AF%E8%8C%B6%E4%B8%80%E6%AE%B5Prompt%E8%B7%91%E4%B8%80%E5%A4%A9%E2%98%95" alt="Typing SVG" />
+</p>
 
 <br>
 
