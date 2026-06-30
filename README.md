@@ -8,7 +8,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/邮箱-ybd0612@qq.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  <img src="https://img.shields.io/badge/微信-ybd0612-7BB32E?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
+  <img src="https://img.shields.io/badge/微信-fwtmde-7BB32E?style=for-the-badge&logo=wechat&logoColor=white" alt="WeChat" />
 </p>
 
 ---
